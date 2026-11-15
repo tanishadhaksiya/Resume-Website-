@@ -203,3 +203,6 @@ footer {
 .navbar a:hover {
     color: #D4AF37;
 }
+#contact {
+    border-radius: 8px;
+}
